@@ -22,8 +22,8 @@ get_script_dir () {
 SCRIPT_DIR=`get_script_dir`
 
 # !!! SPECIFY THE SPECIFIC VERSION OF JDK HERE !!!
-MAJOR=7
-MINOR=80
+MAJOR=8
+MINOR=102
 
 
 RPM_FILE="jdk-${MAJOR}u${MINOR}-linux-x64.rpm"
